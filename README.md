@@ -10,3 +10,6 @@ Batch file code for automating the process of unlocking the bootloader on most A
 ./Connect Your Device: Connect your Android device to the PC via USB.
 
 ./Run the Batch File: Save the code provided as a text file with a .bat extension (e.g., bootloaderunlocker.bat) and run it as an administrator.
+
+
+./Note: Make sure you back-up your data before attempting to unlock the bootloader. Also, keep in mind that it can also void your warranty in some cases.
